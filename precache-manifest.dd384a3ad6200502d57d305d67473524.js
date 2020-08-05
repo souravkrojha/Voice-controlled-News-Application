@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb0b931f9903d855e7d7b6daab742c6d",
+    "revision": "dc6efabf0ef3accfb5539012584cbca8",
     "url": "/bughunter-99/Voice-controlled-News-Application/index.html"
   },
   {
-    "revision": "2a2984b1e95f206c4d9c",
-    "url": "/bughunter-99/Voice-controlled-News-Application/static/css/main.1c1311f4.chunk.css"
+    "revision": "015284549c2f80f81e1e",
+    "url": "/bughunter-99/Voice-controlled-News-Application/static/css/main.09310617.chunk.css"
   },
   {
     "revision": "0529041b946ab8c12373",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bughunter-99/Voice-controlled-News-Application/static/js/2.a3c71001.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2a2984b1e95f206c4d9c",
-    "url": "/bughunter-99/Voice-controlled-News-Application/static/js/main.a383275e.chunk.js"
+    "revision": "015284549c2f80f81e1e",
+    "url": "/bughunter-99/Voice-controlled-News-Application/static/js/main.f095369c.chunk.js"
   },
   {
     "revision": "2e2a1181d8f17983a5a8",

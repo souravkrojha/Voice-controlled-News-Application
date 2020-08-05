@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/bughunter-99/Voice-controlled-News-Application/static/css/main.1c1311f4.chunk.css",
-    "main.js": "/bughunter-99/Voice-controlled-News-Application/static/js/main.a383275e.chunk.js",
-    "main.js.map": "/bughunter-99/Voice-controlled-News-Application/static/js/main.a383275e.chunk.js.map",
+    "main.css": "/bughunter-99/Voice-controlled-News-Application/static/css/main.09310617.chunk.css",
+    "main.js": "/bughunter-99/Voice-controlled-News-Application/static/js/main.f095369c.chunk.js",
+    "main.js.map": "/bughunter-99/Voice-controlled-News-Application/static/js/main.f095369c.chunk.js.map",
     "runtime-main.js": "/bughunter-99/Voice-controlled-News-Application/static/js/runtime-main.f2415ed0.js",
     "runtime-main.js.map": "/bughunter-99/Voice-controlled-News-Application/static/js/runtime-main.f2415ed0.js.map",
     "static/js/2.a3c71001.chunk.js": "/bughunter-99/Voice-controlled-News-Application/static/js/2.a3c71001.chunk.js",
     "static/js/2.a3c71001.chunk.js.map": "/bughunter-99/Voice-controlled-News-Application/static/js/2.a3c71001.chunk.js.map",
     "index.html": "/bughunter-99/Voice-controlled-News-Application/index.html",
-    "precache-manifest.1c82512ca7e86526d2d5e8e78c043489.js": "/bughunter-99/Voice-controlled-News-Application/precache-manifest.1c82512ca7e86526d2d5e8e78c043489.js",
+    "precache-manifest.dd384a3ad6200502d57d305d67473524.js": "/bughunter-99/Voice-controlled-News-Application/precache-manifest.dd384a3ad6200502d57d305d67473524.js",
     "service-worker.js": "/bughunter-99/Voice-controlled-News-Application/service-worker.js",
-    "static/css/main.1c1311f4.chunk.css.map": "/bughunter-99/Voice-controlled-News-Application/static/css/main.1c1311f4.chunk.css.map",
+    "static/css/main.09310617.chunk.css.map": "/bughunter-99/Voice-controlled-News-Application/static/css/main.09310617.chunk.css.map",
     "static/js/2.a3c71001.chunk.js.LICENSE.txt": "/bughunter-99/Voice-controlled-News-Application/static/js/2.a3c71001.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f2415ed0.js",
     "static/js/2.a3c71001.chunk.js",
-    "static/css/main.1c1311f4.chunk.css",
-    "static/js/main.a383275e.chunk.js"
+    "static/css/main.09310617.chunk.css",
+    "static/js/main.f095369c.chunk.js"
   ]
 }

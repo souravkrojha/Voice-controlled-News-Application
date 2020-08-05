@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bughunter-99/Voice-controlled-News-Application/precache-manifest.1c82512ca7e86526d2d5e8e78c043489.js"
+  "/bughunter-99/Voice-controlled-News-Application/precache-manifest.dd384a3ad6200502d57d305d67473524.js"
 );
 
 self.addEventListener('message', (event) => {
