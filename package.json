@@ -1,5 +1,4 @@
 {
-  "homepage": "https://github.com/bughunter-99/Voice-controlled-News-Application",
   "name": "react-news",
   "version": "0.1.0",
   "private": true,
@@ -16,8 +15,6 @@
     "words-to-numbers": "^1.5.1"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
