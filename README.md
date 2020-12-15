@@ -4,7 +4,7 @@
 
 ## This project is created with [ReactJs](https://reactjs.org/), [Alan AI](https://alan.app/), and [NewsApi](https://newsapi.org/).
 
-### In this application you can speak to alan ai to get you the news of your lining annd tell it to read it for you.
+### In this application you can speak to alan ai to get you the news of your liking and tell it to read it for you.
 
 # Connect
 
